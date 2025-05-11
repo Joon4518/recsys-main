@@ -21,9 +21,6 @@ boto3.setup_default_session(
         # run double for loop to calculate profile similarity
         # end of each for loop write similarity results to cassandra db
 
-        # keyspaces
-        # "newnyup@gmail.com"
-        # "tlaznd@0801"
 
 #############################
 def load(image_file):
